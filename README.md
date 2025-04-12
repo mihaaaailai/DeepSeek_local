@@ -121,6 +121,4 @@ model.parallelize(device_map={
 })
 This configuration will split the model across two devices, improving inference speed.
 ________________________________________
-This document provides all necessary information for deploying and optimizing the DeepSeek-7B model on your local machine. Ensure that you follow the steps carefully and adjust configurations to suit your specific hardware and requirements. For the best performance, always verify your setup with the latest updates provided by the DeepSeek team.
-________________________________________
 
