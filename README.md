@@ -25,7 +25,7 @@ RAM	16GB DDR4	32GB DDR5
 Storage	50GB HDD	100GB NVMe SSD
 
 Note: ⚠️ For large-scale deployments or inference on vast datasets, a higher-end GPU such as the NVIDIA A100 (or equivalent) is strongly recommended to ensure smooth performance.
-Software Specifications <>
+Software Specifications. <>
 
 The following software components are required to ensure proper compatibility with the DeepSeek-7B model:
 
