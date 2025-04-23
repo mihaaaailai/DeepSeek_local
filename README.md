@@ -11,7 +11,7 @@ Table of Contents 📋
     System Requirements
     Installation Process
     Model Deployment
-    Basic Usage
+    Basic Usg
     Optimization
     Troubleshooting
 
